@@ -1,7 +1,7 @@
 # littleword
-Projet Flutter en groupe de 2
+Flutter project
 
-##1 Development team:
+## 1 Development team:
 
     DEVIENNE Nathan (Project Lead)
-    
+    HURDEBOURCQ Paul (Founder)
