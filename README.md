@@ -5,4 +5,3 @@ Flutter project
 
     DEVIENNE Nathan (Project Lead)
     HURDEBOURCQ Paul (Founder)
-cccc
